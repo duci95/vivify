@@ -1,0 +1,13 @@
+C:\Users\Dusan\source\repos\VivifyIdeasTest\VivifyIdeasTest\bin\Debug\netcoreapp3.1\VivifyIdeasTest.exe
+C:\Users\Dusan\source\repos\VivifyIdeasTest\VivifyIdeasTest\bin\Debug\netcoreapp3.1\VivifyIdeasTest.deps.json
+C:\Users\Dusan\source\repos\VivifyIdeasTest\VivifyIdeasTest\bin\Debug\netcoreapp3.1\VivifyIdeasTest.runtimeconfig.json
+C:\Users\Dusan\source\repos\VivifyIdeasTest\VivifyIdeasTest\bin\Debug\netcoreapp3.1\VivifyIdeasTest.runtimeconfig.dev.json
+C:\Users\Dusan\source\repos\VivifyIdeasTest\VivifyIdeasTest\bin\Debug\netcoreapp3.1\VivifyIdeasTest.dll
+C:\Users\Dusan\source\repos\VivifyIdeasTest\VivifyIdeasTest\bin\Debug\netcoreapp3.1\VivifyIdeasTest.pdb
+C:\Users\Dusan\source\repos\VivifyIdeasTest\VivifyIdeasTest\obj\Debug\netcoreapp3.1\VivifyIdeasTest.csprojAssemblyReference.cache
+C:\Users\Dusan\source\repos\VivifyIdeasTest\VivifyIdeasTest\obj\Debug\netcoreapp3.1\VivifyIdeasTest.AssemblyInfoInputs.cache
+C:\Users\Dusan\source\repos\VivifyIdeasTest\VivifyIdeasTest\obj\Debug\netcoreapp3.1\VivifyIdeasTest.AssemblyInfo.cs
+C:\Users\Dusan\source\repos\VivifyIdeasTest\VivifyIdeasTest\obj\Debug\netcoreapp3.1\VivifyIdeasTest.csproj.CoreCompileInputs.cache
+C:\Users\Dusan\source\repos\VivifyIdeasTest\VivifyIdeasTest\obj\Debug\netcoreapp3.1\VivifyIdeasTest.dll
+C:\Users\Dusan\source\repos\VivifyIdeasTest\VivifyIdeasTest\obj\Debug\netcoreapp3.1\VivifyIdeasTest.pdb
+C:\Users\Dusan\source\repos\VivifyIdeasTest\VivifyIdeasTest\obj\Debug\netcoreapp3.1\VivifyIdeasTest.genruntimeconfig.cache
